@@ -1,6 +1,6 @@
 ## 👋 Opa Mundo, bem vindos ao meu perfil!!
 
-- Me chamo Nicholas Teixeira, Sou Desenvolvedor de 26 anos de idade, atualmente moro na Bahia.
+- Me chamo Nicholas Teixeira, Sou Desenvolvedor de 28 anos de idade, atualmente moro na Bahia.
 
 ## Hard Skills
 <div align="left">
