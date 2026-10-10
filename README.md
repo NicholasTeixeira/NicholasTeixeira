@@ -28,7 +28,7 @@
   </div>
   <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicholasTeixeira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img width="12" />
+  width="12" />
 </div>
 
 
